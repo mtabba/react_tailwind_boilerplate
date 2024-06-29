@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <h1 className="text=3xl from-neutral-200 font-thin">
-      Boiler Plate React+Vite + Tailwind 
+      Boiler Plate React + Vite + Tailwind 
     </h1>
     <div className="card">
       <button onClick={() => setCount((count) => count + 1)}>
